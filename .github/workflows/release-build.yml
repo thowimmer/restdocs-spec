@@ -1,5 +1,9 @@
 name: rest-docs-api-spec Fork Release
 
+on:
+  push:
+    tags:
+      - 'new-release'
 jobs:
   release-build:
     name: Release Build
