@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.github.berkleytechnologyservices.restdocs-spec</groupId>
+    <groupId>com.thowimmer</groupId>
     <artifactId>restdocs-spec</artifactId>
     <version>0.17-SNAPSHOT</version>
   </parent>
@@ -43,7 +43,7 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.berkleytechnologyservices.restdocs-spec</groupId>
+      <groupId>com.thowimmer</groupId>
       <artifactId>restdocs-spec-generator</artifactId>
       <version>${project.version}</version>
     </dependency>
